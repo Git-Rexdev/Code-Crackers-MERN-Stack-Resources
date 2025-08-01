@@ -32,20 +32,18 @@ CC-MERN-W25/
 │
 ├── weekly-guide/
 │   ├── Week1.md         Web Basics, Git, HTML, CSS, JS
-│   ├── Week2.md         JavaScript (ES6+), DOM, Responsive Design
-│   ├── Week3.md         Introduction to React, JSX, Components, Props
-│   ├── Week4.md         State Management, Events, Hooks
-│   ├── Week5.md         Routing with React Router, Context API
-│   ├── Week6.md         Node.js, Express.js Basics, REST APIs
-│   ├── Week7.md         MongoDB CRUD, Mongoose
-│   ├── Week8.md         Backend Authentication & JWT
-│   ├── Week9.md         React + Express Integration, Proxy Setup
-│   ├── Week10.md        Advanced MERN Patterns, File Uploads
-│   ├── Week11.md        Deployment (Render, Vercel, Netlify, Railway)
-│   ├── Week12.md        Final Capstone Project & Hosting
+│   ├── Week2.md         
+│   ├── Week3.md         
+│   ├── Week4.md         
+│   ├── Week5.md         
+│   ├── Week6.md         
+│   ├── Week7.md         
+│   ├── Week8.md         
+│   ├── Week9.md         
+│   ├── Week10.md        
+│   ├── Week11.md       
+│   ├── Week12.md        
 │
-├── sample-projects/     Mini-projects for practice
-├── boilerplates/        Starter templates for React, Node, Express
 ├── resources/           Cheat sheets, guides, external reference links
 └── README.md            Main repository documentation (you are here)
 ```
