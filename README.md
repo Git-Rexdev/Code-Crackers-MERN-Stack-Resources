@@ -72,7 +72,7 @@ Each weekly file includes:
 
 3. Open the markdown file for the current week to begin.
 
-Refer to `sample-projects/` for guided projects and `boilerplates/` to kickstart your own apps.
+Refer to `resources` for extra resources.
 
 ---
 
