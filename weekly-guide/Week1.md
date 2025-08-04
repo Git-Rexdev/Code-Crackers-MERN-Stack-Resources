@@ -56,7 +56,7 @@ Create a GitHub repository to track your MERN stack learning journey.
 
 - **Repository Name:** `YourName-CC-MERN-W25`
 - **Visibility:** Private  
-- **Share access with:** `zanwarmanmohan@gmail.com`
+- **Share access with:** `zanwarmanmohan@gmail.com`, `contact.codecrackers@gmail.com`
 
 ### What to Include
 
