@@ -156,3 +156,15 @@
 // }
 // b();
 
+// what is callback functions 
+setTimeout(function(){
+    console.log("This is a callback function");
+}, 2000); // this will execute after 2 seconds
+
+function first(second) {
+    console.log("First function executed");
+}       
+first(function second() {
+    console.log("Second function executed");
+});
+
